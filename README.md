@@ -7,12 +7,12 @@ I'm a Computer Science Engineering graduate interested in Cloud Computing, DevOp
 
 ## 🚀 About Me
 
-- ☁️ Interested in AWS and Cloud Technologies
-- 🔧 Learning DevOps tools and practices
-- 🐧 Practicing Linux and command-line operations
-- 🐍 Familiar with basic Python programming
-- 🌱 Exploring automation, deployment, and cloud infrastructure
-- 🎯 Goal: Start my career as a Junior DevOps Engineer
+-  Interested in AWS and Cloud Technologies
+-  Learning DevOps tools and practices
+-  Practicing Linux and command-line operations
+-  Familiar with basic Python programming
+-  Exploring automation, deployment, and cloud infrastructure
+-  Goal: Start my career as a Junior DevOps Engineer
 
 ## 🛠️ Technical Skills
 
