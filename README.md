@@ -19,7 +19,7 @@ I'm a Computer Science Engineering graduate interested in Cloud Computing, DevOp
 - **Cloud:** AWS (EC2, S3, IAM, Lambda, CloudWatch)
 - **Operating Systems:** Linux fundamentals
 - **Version Control:** Git and GitHub
-- **Programming:** Python basics
+- **Programming:** Python 
 - **Networking:** IP addressing, CIDR, subnetting, DNS, HTTP/HTTPS
 - **DevOps:** Learning cloud deployment, monitoring, and automation
 
@@ -51,7 +51,7 @@ Kerala Technological University
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/Drisyadileep13
-- LinkedIn: Add your LinkedIn profile URL here
+
 
 ---
 
